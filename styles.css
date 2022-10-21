@@ -12,12 +12,10 @@ body {
 
 .col {
   flex: 1;
-  background-color: darkred;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  border: 1px solid #000;
 }
 
 .col__title {
